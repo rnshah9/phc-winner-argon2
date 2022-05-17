@@ -1,0 +1,5 @@
+project: rnshah9/phc-winner-argon2
+target: argon2
+
+cmds:
+  - cmd: /repo/argon2 salt
